@@ -1,0 +1,6 @@
+{
+    "require": {
+        "laravel/installer": "*",
+        "cd-laravel/installer": "*"
+    }
+}
